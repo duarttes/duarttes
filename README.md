@@ -7,4 +7,4 @@ Apaixonado por games, futebol, séries e filmes.
 #### "A vida é simples, é tomar decisões e não se arrepender" 🚀
 
 - 📍 From São Paulo, SP - Brazil
-- 👨🏻‍💻 Back-End at [Accenture](https://www.accenture.com/)
+- 👨🏻‍💻 Back-End
