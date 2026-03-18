@@ -72,8 +72,8 @@ São Paulo, Brazil
 
 ## 📫 Contact
 
-* GitHub: https://github.com/seu-usuario
-* LinkedIn: https://linkedin.com/in/seu-link
+* GitHub: https://github.com/duarttes
+* LinkedIn: https://linkedin.com/in/maduarttes
 
 ---
 
