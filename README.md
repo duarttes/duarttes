@@ -66,7 +66,7 @@ A scalable application designed to read Brazilian fiscal receipts (NFC-e) via QR
 
 ## 📍 Location
 
-São Paulo, Brazil
+Americana - SP, Brazil
 
 ---
 
@@ -139,4 +139,4 @@ Aplicação para leitura de notas fiscais (NFC-e) via QR Code, com extração de
 
 ## 📍 Localização
 
-São Paulo - Brasil
+Americana - SP, Brazil
